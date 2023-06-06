@@ -39,3 +39,4 @@ def possui_conta():
     else:
         print('Você digitou uma opção invalida, tente novamente!')
         possui_conta()
+possui_conta()
